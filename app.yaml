@@ -4,7 +4,7 @@ handlers:
   - url: /
     static_file: style.css 
 
-  -url: /
+  - url: /
    static_file: bagas.jpg
    
   - url: /
