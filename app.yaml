@@ -5,7 +5,7 @@ handlers:
     static_file: style.css 
 
   -url: /
-   static_file: bagas.jpeg
+   static_file: bagas.jpg
    
   - url: /
     static_file: index.html  
