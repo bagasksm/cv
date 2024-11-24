@@ -1,0 +1,12 @@
+runtime: python39  
+
+handlers:
+  - url: /
+    static_file: style.css 
+
+  -url: /
+   static_file: bagas.jpeg
+   
+  - url: /
+    static_file: index.html  
+    upload: index.html
